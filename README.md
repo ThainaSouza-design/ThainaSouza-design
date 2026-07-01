@@ -1,16 +1,16 @@
-## Hi there 👋
+---
+name: Thaina
+location: São Paulo, SP
+skills:
+  - Design Gráfico
+  - Desenvolvimento Front-end
+  - UI/UX Design
+---
 
-<!--
-**ThainaSouza-design/ThainaSouza-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Me chamo Thaina, uma Designer Gráfica com experiência freelancer e atualmente estudante de Desenvolvimento Front-end, com um forte foco em UI/UX Design. Minha jornada começou na ETEC MAS, onde aprimorei minhas habilidades em design. Hoje, combino essa paixão por estética e funcionalidade para criar interfaces intuitivas e visualmente atraentes. Estou sempre em busca de novos desafios e oportunidades para transformar ideias em experiências digitais impactantes.
 
-Here are some ideas to get you started:
+**Tecnologias e Ferramentas:** HTML, CSS, JavaScript, Figma, Pacote Adobe.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Interesses:** Desenvolvimento Web, Design de Interação, Acessibilidade, Prototipagem.
+
+Conecte-se comigo: https://br.linkedin.com/in/thaina-silva-60a700307
