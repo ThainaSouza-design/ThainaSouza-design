@@ -32,8 +32,19 @@ Me chamo Thaina, sou natural de São Paulo e formada em **Design Gráfico pela E
 ### 🤖 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ThainaSouza-design&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" height="180px" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ThainaSouza-design&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=6" height="200px" />
+
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=ThainaSouza-design&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
+    height="180px"
+  />
+
+  <br><br>
+
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ThainaSouza-design&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=6"
+    height="200px"
+  />
+
 </div>
 
 ---
