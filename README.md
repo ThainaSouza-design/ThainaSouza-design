@@ -37,7 +37,7 @@ Me chamo Thaina, sou natural de São Paulo e formada em **Design Gráfico pela E
 
 ### 📫 Vamos nos conectar?
 
-[LinkedIn]( https://br.linkedin.com/in/thaina-silva-60a700307) | [Portfólio]( Em andamento...) | [E-mail](Thainasouzasilva.2020@gmail.com)
+[LinkedIn]( https://br.linkedin.com/in/thaina-silva-60a700307) | [Portfólio](https://www.behance.net/ThinaLazurite) | [E-mail](Thainasouzasilva.2020@gmail.com)
 
 ---
 
